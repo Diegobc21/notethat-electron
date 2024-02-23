@@ -1,0 +1,9 @@
+appId: notethat-electron
+asar: false
+productName: NoteThat
+directories:
+  output: dist
+win:
+  icon: ./favicon.ico
+mac:
+  icon: ./favicon.ico
