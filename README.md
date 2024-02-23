@@ -7,7 +7,7 @@
 Para comenzar, clona este repositorio en tu máquina local utilizando el siguiente comando:
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/Diegobc21/notethat-electron.git
 ```
 
 ## Instalación
@@ -15,7 +15,7 @@ git clone https://github.com/tu_usuario/tu_repositorio.git
 Una vez que hayas clonado el repositorio, navega hasta el directorio del proyecto e instala las dependencias utilizando npm:
 
 ```bash
-cd note-that-electron
+cd notethat-electron
 npm install
 ```
 
@@ -43,4 +43,4 @@ Este comando compilará los archivos TypeScript (si es necesario) y luego utiliz
 
 Una vez que hayas compilado la aplicación, puedes encontrar los instaladores y paquetes de distribución en el directorio `dist`. Simplemente sigue las instrucciones de instalación correspondientes a tu sistema operativo para instalar la aplicación.
 
-¡Disfruta de tu experiencia con NoteThat Electron!
+¡Disfruta de NoteThat!
